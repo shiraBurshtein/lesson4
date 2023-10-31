@@ -1,6 +1,6 @@
-﻿using lesson4api.model;
-using lesson4api.Service;
+﻿using Til_Model.model;
 using Microsoft.AspNetCore.Mvc;
+using Til_Service.Service;
 
 namespace lesson4api.Controllers
 {
@@ -8,38 +8,48 @@ namespace lesson4api.Controllers
     [Route("[controller]")]
     public class TilController : ControllerBase
     {
-        public TilController()
-        {
+        readonly tilservice _service;
 
+        public TilController(tilservice service)
+        {
+            _service = service;
         }
-        tilservice tilservice = new tilservice();
+
         [HttpGet]
         public IEnumerable<Til> Get()
         {
-            return tilservice.GetTilimList();
+            return _service.GetTilimList();
         }
         [HttpPost]
         public void post(Til til)
         {
-            tilservice.Add(til);
+            if (!(_service.GetTilimList().Contains(til)))
+            {
+                _service.Add(til);
+            }
+
         }
         [HttpGet]
         [Route("GetLocation")]
         public IEnumerable<location> GetLocation()
         {
-            return tilservice.GetLocation();
+            return _service.GetLocation();
         }
         [HttpGet]
         [Route("GetByLocation")]
-        public IEnumerable<Til> GetByLocation(location location)
+        public IEnumerable<Til> GetByLocation(string city)
         {
-            return tilservice.GetByLocation(location);
+            if (!(_service.GetTilimList().Select(t => t.Location.City == city).ToList().Any()))
+                return _service.GetByLocation(city);
+            return null;
         }
         [HttpGet]
         [Route("GetById")]
         public Til GetById(string id)
         {
-            return tilservice.GetTil(id);
+            if (!(_service.GetTilimList().Select(t => t.PatriotMissile == id).ToList().Any()))
+                return _service.GetTil(id);
+            return null;
         }
 
 

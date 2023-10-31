@@ -1,5 +1,5 @@
-﻿using lesson4api.model;
-namespace lesson4api.Service
+﻿using Til_Model.model;
+namespace Til_Service.Service
 {
     public class data
     {

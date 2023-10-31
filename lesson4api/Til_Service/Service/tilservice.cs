@@ -1,17 +1,18 @@
-﻿using lesson4api.model;
-namespace lesson4api.Service
+﻿using Til_Model.model;
+namespace Til_Service.Service
 {
     public class tilservice
     {
+        public tilservice()
+        {
+
+        }
         public bool Add(Til til)
         {
             data.dataservice.Add(til);
             return true;
         }
-        public tilservice()
-        {
 
-        }
         public Til GetTil(string id)
         {
             return data.dataservice.Where(t => t.PatriotMissile == id).First();
@@ -19,14 +20,14 @@ namespace lesson4api.Service
         public IEnumerable<location> GetLocation()
         {
             List<location> locations = new List<location>();
- 
-            data.dataservice.ForEach(t=>locations.Add(t.Location)); 
+
+            data.dataservice.ForEach(t => locations.Add(t.Location));
             return locations;
         }
-        public IEnumerable<Til> GetByLocation(location location)
+        public IEnumerable<Til> GetByLocation(string city)
         {
-           
-            return data.dataservice.Where(t => t.Location == location).ToList();
+
+            return data.dataservice.Where(t => t.Location.City == city).ToList();
         }
         public IEnumerable<Til> GetTilimList()
         {

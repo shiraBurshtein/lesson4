@@ -1,4 +1,4 @@
-﻿namespace lesson4api.model
+﻿namespace Til_Model.model
 {
     public class Til
     {
