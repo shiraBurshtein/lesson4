@@ -5,9 +5,9 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson4api", "lesson4api\lesson4api.csproj", "{78653954-2DA4-4B28-B1EF-5F5C343626A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Til_Model", "Til_Model\Til_Model.csproj", "{36705311-AEFB-4BA7-B021-CC761FFBF452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Til_Model", "Til_Model\Til_Model.csproj", "{36705311-AEFB-4BA7-B021-CC761FFBF452}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Til_Service", "Til_Service\Til_Service.csproj", "{0A39DFEB-DB7D-4220-B688-2FBD6227A304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Til_Service", "Til_Service\Til_Service.csproj", "{0A39DFEB-DB7D-4220-B688-2FBD6227A304}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
