@@ -210,3 +210,211 @@ D:\שירה\תכנות\דוטנט\missle\lesson4api\lesson4api\obj\Debug\net6.0\
 D:\שירה\תכנות\דוטנט\missle\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.pdb
 D:\שירה\תכנות\דוטנט\missle\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.genruntimeconfig.cache
 D:\שירה\תכנות\דוטנט\missle\lesson4api\lesson4api\obj\Debug\net6.0\ref\lesson4api.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.Development.json
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.json
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.exe
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.deps.json
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.runtimeconfig.json
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.pdb
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\Til_Model.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\Til_Service.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\Til_Model.pdb
+F:\web api\פרויקט המשך\lesson4api\lesson4api\bin\Debug\net6.0\Til_Service.pdb
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.AssemblyReference.cache
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.GeneratedMSBuildEditorConfig.editorconfig
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfoInputs.cache
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfo.cs
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CoreCompileInputs.cache
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cs
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cache
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.build.json
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.development.json
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\scopedcss\bundle\lesson4api.styles.css
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CopyComplete
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\refint\lesson4api.dll
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.pdb
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.genruntimeconfig.cache
+F:\web api\פרויקט המשך\lesson4api\lesson4api\obj\Debug\net6.0\ref\lesson4api.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfo.cs
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\refint\lesson4api.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.pdb
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.exe
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.deps.json
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.runtimeconfig.json
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.pdb
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Til_Model.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Til_Service.dll
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Til_Model.pdb
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Til_Service.pdb
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\scopedcss\bundle\lesson4api.styles.css
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CopyComplete
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.genruntimeconfig.cache
+C:\Users\User\Downloads\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\ref\lesson4api.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.Development.json
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.json
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.exe
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.deps.json
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.runtimeconfig.json
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.pdb
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Azure.Core.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Azure.Identity.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Humanizer.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.CodeDom.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Memory.Data.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Text.Json.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Til_Model.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Til_Service.dll
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Til_Model.pdb
+G:\Api hw\lesson4api\lesson4api\bin\Debug\net6.0\Til_Service.pdb
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.AssemblyReference.cache
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.GeneratedMSBuildEditorConfig.editorconfig
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfoInputs.cache
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfo.cs
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CoreCompileInputs.cache
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cs
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cache
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets\msbuild.lesson4api.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets\msbuild.build.lesson4api.props
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lesson4api.props
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lesson4api.props
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.build.json
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.development.json
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\scopedcss\bundle\lesson4api.styles.css
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CopyComplete
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.dll
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\refint\lesson4api.dll
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.pdb
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.genruntimeconfig.cache
+G:\Api hw\lesson4api\lesson4api\obj\Debug\net6.0\ref\lesson4api.dll

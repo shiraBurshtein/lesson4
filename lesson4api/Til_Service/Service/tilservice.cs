@@ -3,7 +3,7 @@ namespace Til_Service.Service
 {
     public class tilservice
     {
-        public tilservice()
+        public tilservice( )
         {
 
         }
@@ -12,7 +12,6 @@ namespace Til_Service.Service
             data.dataservice.Add(til);
             return true;
         }
-
         public Til GetTil(string id)
         {
             return data.dataservice.Where(t => t.PatriotMissile == id).First();

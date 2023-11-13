@@ -6,6 +6,7 @@ namespace lesson4api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+
     public class TilController : ControllerBase
     {
         readonly tilservice _service;
@@ -14,7 +15,6 @@ namespace lesson4api.Controllers
         {
             _service = service;
         }
-
         [HttpGet]
         public IEnumerable<Til> Get()
         {
